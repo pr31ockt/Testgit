@@ -1,1 +1,4 @@
 This is my first text file
+Commands Learning
+git push -u origin master
+git commit -m "Este es mi primer commit" test.txt
