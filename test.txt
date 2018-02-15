@@ -1,4 +1,19 @@
+
 This is my first text file
 Commands Learning
 git push -u origin master
 git commit -m "Este es mi primer commit" test.txt
+dfadsfgsdfg
+dsfg654sfdg654sdfgsdfg
+dfg
+fd
+g
+d
+fg
+
+Hola desde
+donde comienza a tomar cambios¿
+
+asdfas
+dfasd
+f
